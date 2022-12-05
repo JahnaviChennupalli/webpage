@@ -1,0 +1,194 @@
+.stylinglogo{
+    width: 80px;
+    height: 70px;
+}
+#go{
+    color: black;
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+
+}
+#go:hover{
+    color:blue;
+}
+.button{
+    background-color:#c90202 ;
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-left:20px ;
+    border: 0px;
+
+}
+.button:hover{
+    background-color:blue;
+    color:#c90202;
+}
+.bgimg1{
+    background-image: url("https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/greenbaywi/GreenBay_HouseAd_ROS_Restaurants_23MAR2022_c3c4259f-68ef-4ddb-b674-837b2fe08c94.jpg");
+    background-size: cover;
+    height: 80vh;
+
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(217, 243, 21);
+
+}
+.paraline{
+    color: #f5f7fa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+.button1{
+    color: white;
+    background-color: #c90202;
+    width: 230px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.button1:hover{
+    background-color: blue;
+
+
+}
+.head2{
+    color:darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.carding{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-radius:16px ;
+    border-width:1px ;
+    border-color: #e5eaf4;
+}
+.cardimage{
+    width: 87px;
+    height: 90px;
+
+}
+.chead{
+    font-weight: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color:crimson;
+
+}
+.cpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+.bgimg2{
+    background-color: white;
+
+}
+.explorehead{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight:700 ;
+
+}
+.explorecards{
+    border-radius: 16px;
+
+}
+.exploreimage{
+    border-radius: 10px;
+    height:190px;
+}
+.cardhead{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight:bold ;
+    margin-top: 24px;
+}
+.explorelink{
+    color:#c90202;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.paybgimg{
+    background-color: white;
+}
+.paymentimg{
+    width:350px;
+}
+.payhead{
+    color:#183b56;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size:28px ;
+    font-weight: 700;
+
+}
+.paypara{
+    color:#5a7184;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+.cstbutton{
+    color:white;
+    background-color: #c90202;
+    width:130px;
+    height:45px;
+    border-width:0;
+    border-radius:8px;
+
+}
+.cstbutton:hover{
+    background-color: blue;
+}
+.paycardimg{
+    width:50px;
+    height:50px;
+    margin-right:28px;
+}
+#contact{
+    background-color:white;
+    padding-bottom: 4rem;
+
+}
+.socialicons{
+    font-size:40px;
+    cursor:pointer;
+
+
+}
+#icenter1{
+    text-align:center;
+
+}
+.fa-brands{
+    color:white;
+}
+.fa-facebook,.fa-instagram,.fa-linkedin{
+    margin:40px;
+}
+
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover{
+    color:red;
+}
+
